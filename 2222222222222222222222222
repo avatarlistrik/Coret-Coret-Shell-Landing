@@ -1,7 +1,7 @@
 <?php
 // 301 Moved Permanently
 header("HTTP/1.1 301 Moved Permanently");
-header("Location: https://jbrhs.edu.iq");
+header("Location: https://zjes.alzahu.edu.iq/");
 exit();
 ?>
 <?php
